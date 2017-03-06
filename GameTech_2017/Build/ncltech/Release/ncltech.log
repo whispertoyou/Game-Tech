@@ -1,0 +1,49 @@
+﻿Build started 16/12/2016 10:44:59.
+     1>Project "C:\Users\b6014990\Desktop\Game Tech\GameTech_2017\Build\ncltech\ncltech.vcxproj" on node 3 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\CL.exe /c /Zi /nologo /W3 /WX /sdl /O2 /Oi /Oy- /GL /D _MBCS /Gm- /EHsc /MD /GS /Gy /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /openmp /Fo"Release\\" /Fd"Release\ncltech.pdb" /Gd /TP /analyze- /errorReport:prompt CollisionDetectionSAT.cpp CommonMeshes.cpp CommonUtils.cpp CuboidCollisionShape.cpp NetworkBase.cpp ObjectMeshDragable.cpp NCLDebug.cpp Object.cpp Hull.cpp Manifold.cpp PhysicsEngine.cpp PhysicsObject.cpp RenderList.cpp SceneManager.cpp SceneRenderer.cpp Scene.cpp ScreenPicker.cpp ObjectMesh.cpp SphereCollisionShape.cpp
+         CollisionDetectionSAT.cpp
+         CommonMeshes.cpp
+         CommonUtils.cpp
+         CuboidCollisionShape.cpp
+         NetworkBase.cpp
+         ObjectMeshDragable.cpp
+         NCLDebug.cpp
+         Object.cpp
+         Hull.cpp
+         Manifold.cpp
+         PhysicsEngine.cpp
+         PhysicsObject.cpp
+         RenderList.cpp
+         SceneManager.cpp
+         SceneRenderer.cpp
+         Scene.cpp
+         ScreenPicker.cpp
+         ObjectMesh.cpp
+         SphereCollisionShape.cpp
+       Lib:
+         C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\Lib.exe /OUT:"C:\Users\b6014990\Desktop\Game Tech\GameTech_2017\Build\Release\ncltech.lib" /NOLOGO /LTCG Release\CollisionDetectionSAT.obj
+         Release\CommonMeshes.obj
+         Release\CommonUtils.obj
+         Release\CuboidCollisionShape.obj
+         Release\NetworkBase.obj
+         Release\ObjectMeshDragable.obj
+         Release\NCLDebug.obj
+         Release\Object.obj
+         Release\Hull.obj
+         Release\Manifold.obj
+         Release\PhysicsEngine.obj
+         Release\PhysicsObject.obj
+         Release\RenderList.obj
+         Release\SceneManager.obj
+         Release\SceneRenderer.obj
+         Release\Scene.obj
+         Release\ScreenPicker.obj
+         Release\ObjectMesh.obj
+         Release\SphereCollisionShape.obj
+         ncltech.vcxproj -> C:\Users\b6014990\Desktop\Game Tech\GameTech_2017\Build\Release\ncltech.lib
+     1>Done Building Project "C:\Users\b6014990\Desktop\Game Tech\GameTech_2017\Build\ncltech\ncltech.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:10.73

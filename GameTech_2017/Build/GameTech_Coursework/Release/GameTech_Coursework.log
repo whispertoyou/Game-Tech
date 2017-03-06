@@ -1,0 +1,23 @@
+﻿Build started 16/12/2016 11:54:01.
+     1>Project "C:\Users\b6014990\Desktop\Game Tech\GameTech_2017\Build\GameTech_Coursework\GameTech_Coursework.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\CL.exe /c /Zi /nologo /W3 /WX- /sdl /O2 /Oi /Oy- /GL /D _MBCS /Gm- /EHsc /MD /GS /Gy /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"Release\\" /Fd"Release\vc140.pdb" /Gd /TP /analyze- /errorReport:prompt EmptyScene.cpp
+         EmptyScene.cpp
+     1>EmptyScene.cpp(163): warning C4305: 'argument': truncation from 'double' to 'float'
+     1>EmptyScene.cpp(617): warning C4305: 'argument': truncation from 'double' to 'float'
+     1>EmptyScene.cpp(666): warning C4305: 'argument': truncation from 'double' to 'const float'
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\b6014990\Desktop\Game Tech\GameTech_2017\Build\Release\GameTech_Coursework.exe" /NOLOGO nclgl.lib ncltech.lib enet.lib ws2_32.lib Winmm.lib glew32.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\b6014990\Desktop\Game Tech\GameTech_2017\Build\Release\GameTech_Coursework.pdb" /OPT:REF /OPT:ICF /LTCG:incremental /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\b6014990\Desktop\Game Tech\GameTech_2017\Build\Release\GameTech_Coursework.lib" /MACHINE:X86 /SAFESEH Release\EmptyScene.obj
+         Release\main.obj
+         Release\TestScene.obj
+         Generating code
+         0 of 3709 functions ( 0.0%) were compiled, the rest were copied from previous compilation.
+           0 functions were new in current compilation
+           0 functions had inline decision re-evaluated but remain unchanged
+         Finished generating code
+         GameTech_Coursework.vcxproj -> C:\Users\b6014990\Desktop\Game Tech\GameTech_2017\Build\Release\GameTech_Coursework.exe
+     1>Done Building Project "C:\Users\b6014990\Desktop\Game Tech\GameTech_2017\Build\GameTech_Coursework\GameTech_Coursework.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:02.45

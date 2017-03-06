@@ -1,0 +1,52 @@
+﻿Build started 30/11/2016 18:32:57.
+     1>Project "C:\Users\b6014990\Desktop\Game Tech\GameTech_2017\Build\nclgl\nclgl.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"Debug\\" /Fd"Debug\nclgl.pdb" /Gd /TP /analyze- /errorReport:prompt Camera.cpp CubeRobot.cpp Frustum.cpp GameTimer.cpp Keyboard.cpp MD5Anim.cpp MD5FileData.cpp MD5Mesh.cpp MD5Node.cpp Matrix3.cpp Matrix4.cpp Mesh.cpp Mouse.cpp OBJMesh.cpp OGLRenderer.cpp Plane.cpp Quaternion.cpp SceneNode.cpp Shader.cpp Window.cpp
+         Window.cpp
+         Shader.cpp
+         SceneNode.cpp
+         Quaternion.cpp
+         Plane.cpp
+         OGLRenderer.cpp
+         OBJMesh.cpp
+         Mouse.cpp
+         Mesh.cpp
+         Matrix4.cpp
+         Matrix3.cpp
+         MD5Node.cpp
+         MD5Mesh.cpp
+         MD5FileData.cpp
+         MD5Anim.cpp
+         Keyboard.cpp
+         GameTimer.cpp
+         Frustum.cpp
+         CubeRobot.cpp
+         Camera.cpp
+         Generating Code...
+       Lib:
+         C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\Lib.exe /OUT:"C:\Users\b6014990\Desktop\Game Tech\GameTech_2017\Build\Debug\nclgl.lib" /NOLOGO Debug\Camera.obj
+         Debug\CubeRobot.obj
+         Debug\Frustum.obj
+         Debug\GameTimer.obj
+         Debug\Keyboard.obj
+         Debug\Matrix3.obj
+         Debug\Matrix4.obj
+         Debug\MD5Anim.obj
+         Debug\MD5FileData.obj
+         Debug\MD5Mesh.obj
+         Debug\MD5Node.obj
+         Debug\Mesh.obj
+         Debug\Mouse.obj
+         Debug\OBJMesh.obj
+         Debug\OGLRenderer.obj
+         Debug\Plane.obj
+         Debug\Quaternion.obj
+         Debug\SceneNode.obj
+         Debug\Shader.obj
+         Debug\Window.obj
+         nclgl.vcxproj -> C:\Users\b6014990\Desktop\Game Tech\GameTech_2017\Build\Debug\nclgl.lib
+     1>Done Building Project "C:\Users\b6014990\Desktop\Game Tech\GameTech_2017\Build\nclgl\nclgl.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:10.83

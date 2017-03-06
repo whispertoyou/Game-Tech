@@ -1,0 +1,18 @@
+﻿Build started 15/12/2016 15:17:13.
+     1>Project "C:\Users\b6014990\Desktop\Game Tech\GameTech_2017\Build\Tuts_Network_Client\Tuts_Network_Client.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\CL.exe /c /Zi /nologo /W3 /WX /sdl /O2 /Oi /Oy- /GL /D WIN32 /D NDEBUG /D _CONSOLE /D _LIB /D _UNICODE /D UNICODE /Gm- /EHsc /MD /GS /Gy /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"Release\\" /Fd"Release\vc140.pdb" /Gd /TP /analyze- /errorReport:prompt Net1_Client.cpp main.cpp
+         Net1_Client.cpp
+         main.cpp
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\b6014990\Desktop\Game Tech\GameTech_2017\Build\Release\Tuts_Network_Client.exe" /INCREMENTAL:NO /NOLOGO nclgl.lib ncltech.lib enet.lib ws2_32.lib Winmm.lib glew32.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /Debug /PDB:"C:\Users\b6014990\Desktop\Game Tech\GameTech_2017\Build\Release\Tuts_Network_Client.pdb" /SUBSYSTEM:CONSOLE /OPT:REF /OPT:ICF /LTCG:incremental /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\b6014990\Desktop\Game Tech\GameTech_2017\Build\Release\Tuts_Network_Client.lib" /MACHINE:X86 /SAFESEH Release\Net1_Client.obj
+         Release\main.obj
+         Generating code
+         All 3400 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+         Finished generating code
+         Tuts_Network_Client.vcxproj -> C:\Users\b6014990\Desktop\Game Tech\GameTech_2017\Build\Release\Tuts_Network_Client.exe
+     1>Done Building Project "C:\Users\b6014990\Desktop\Game Tech\GameTech_2017\Build\Tuts_Network_Client\Tuts_Network_Client.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:04.83
